@@ -1,0 +1,15 @@
+ol li {
+    font-size: 20px;
+    color: green;
+}
+
+#middle-li
+{
+    border: 1px orange;
+
+}
+
+.the-other-li
+{
+    border:3px blue;
+}
